@@ -1,0 +1,9 @@
+[wolframalpha]
+# AppID из https://developer.wolframalpha.com/portal/myapps/
+app_id = YOUR-APP-ID-HERE
+timeout = 20
+retries = 3
+backoff = 2
+delay = 1
+output_dir = output
+log_file = logs/app.log
